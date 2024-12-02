@@ -1,2 +1,2 @@
 # exercise1
-this is my first exercise 
+this is my first repo 
